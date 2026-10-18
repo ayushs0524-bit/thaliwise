@@ -1,0 +1,8 @@
+{
+  "name": "thaliwise",
+  "version": "2.0.0",
+  "description": "ThaliWise: cheapest nutritious weekly plan for every family (allergy-aware, PDS-aware, Hindi/English).",
+  "private": true,
+  "scripts": { "test": "node tests/optimizer.test.js", "start": "npx serve ." },
+  "license": "MIT"
+}
